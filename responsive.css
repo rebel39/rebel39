@@ -1,0 +1,14 @@
+@media (max-width:1000px) {
+  .line1-list{
+    flex-direction: column;
+  }
+
+  .line1-list li{
+    margin: 0 auto;
+    padding-bottom: 15px;
+  }
+
+  .special{
+    color: red;
+  }
+}
