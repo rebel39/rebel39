@@ -1,3 +1,17 @@
-.title {
-  color: #02ccba;
+
+.line1-list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  font-weight: bold;
+  font-size: 50px;
+}
+.line1-list  li {
+  flex:auto;
+  text-align: center;
+  width: 33.3%;
+}
+
+.special　{
+  color: red;
 }
