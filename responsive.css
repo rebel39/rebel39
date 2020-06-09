@@ -1,6 +1,9 @@
 @media (max-width:1000px) {
+
+
   .line1-list{
     flex-direction: column;
+    font-size: 15px;
   }
 
   .line1-list li{
