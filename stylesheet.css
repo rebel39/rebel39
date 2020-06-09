@@ -4,7 +4,7 @@
   display: flex;
   flex-wrap: wrap;
   font-weight: bold;
-  font-size: 50px;
+  font-size: 30px;
 }
 .line1-list  li {
   flex:auto;
@@ -12,6 +12,6 @@
   width: 33.3%;
 }
 
-.special　{
+.special {
   color: red;
 }
